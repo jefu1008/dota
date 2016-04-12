@@ -4,7 +4,7 @@
   touch-action:none;
   position:static;
   left:auto;
-  width:1050px;
+  width:1070px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -562,5 +562,26 @@
   top:-62px;
   width:100px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u46 {
+  position:absolute;
+  left:30px;
+  top:254px;
+  width:1040px;
+  height:464px;
+}
+#u46_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1040px;
+  height:464px;
+}
+#u47 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1040px;
   word-wrap:break-word;
 }

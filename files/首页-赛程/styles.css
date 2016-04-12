@@ -374,24 +374,25 @@
 }
 #u28 {
   position:absolute;
-  left:44px;
+  left:16px;
   top:96px;
-  width:244px;
+  width:320px;
   height:16px;
   color:#999999;
+  text-align:center;
 }
 #u28_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:244px;
+  width:320px;
   height:16px;
 }
 #u29 {
   position:absolute;
   left:0px;
   top:0px;
-  width:244px;
+  width:320px;
   word-wrap:break-word;
 }
 #u30 {
